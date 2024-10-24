@@ -20,6 +20,6 @@ console.log("Welcome to my Github! 🍀");
 <br />
 <div align="center">
 
-<a href="mailto:hello@maxhu.dev">contact@servocorp.dev</a> | ⚙ You can find all my configs <a href="https://github.com/maxhu08/maxhu08/blob/main/CONFIGS.md">here</a>
+<a href="mailto:hello@maxhu.dev">contact@servocorp.dev</a>
 
 </div>
